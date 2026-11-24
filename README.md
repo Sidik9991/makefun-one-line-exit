@@ -18,7 +18,7 @@ line — failing loudly otherwise.
 
 ## The bounty
 
-- Bounty page: https://make.fun/bounty/u-kreutzx-the-one-line-exit-1dc652d1
+- Bounty page: [The One-Line Exit on make.fun](https://make.fun/bounty/u-kreutzx-the-one-line-exit-1dc652d1)
 
 ![make.fun bounty](https://make.fun/badge/u-kreutzx-the-one-line-exit-1dc652d1.svg)
 ![rank](https://make.fun/badge/u-kreutzx-the-one-line-exit-1dc652d1/Sidik9991/makefun-one-line-exit/rank.svg)
