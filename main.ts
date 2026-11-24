@@ -46,6 +46,19 @@ const CANDIDATES: Candidate[] = [
     line: "Please accept my resignation — as the zoo's penguin keeper, I can no longer compete with colleagues who look better in the uniform.",
     scores: [2, 1, 2, 2, 2],
   },
+  // Pass 2 challengers: three more voices take on the leaders.
+  {
+    line: "I resign. Twenty years I drove this ice-cream truck, and not once did the jingle play for me.",
+    scores: [2, 1, 2, 1, 2],
+  },
+  {
+    line: "After eleven years as your dentist, I resign: I have pulled four thousand teeth, and today one of them whispered 'your turn.'",
+    scores: [2, 2, 2, 2, 1],
+  },
+  {
+    line: "I resign as your elevator operator — forty years of going nowhere slowly, and management calls that my career trajectory too.",
+    scores: [2, 1, 2, 2, 1],
+  },
 ];
 
 function total(c: Candidate): number {
